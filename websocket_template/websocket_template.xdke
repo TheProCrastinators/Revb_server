@@ -5,5 +5,113 @@
     "currentBuildConfiguration": "Android",
     "projectFiles": {},
     "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "LICENSE.md": {
+        "previousModTime": 1461403246000,
+        "modified": 1461403246000,
+        "seen": true,
+        "name": "LICENSE.md"
+      },
+      "README.md": {
+        "previousModTime": 1461403246000,
+        "modified": 1461403246000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "icon.png": {
+        "previousModTime": 1461403246000,
+        "modified": 1461403246000,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1461406750000,
+        "modified": 1461406750000,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1461403246000,
+        "modified": 1461403246000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "websocket_template.xdk": {
+        "previousModTime": 1461403246000,
+        "modified": 1461403246000,
+        "seen": true,
+        "name": "websocket_template.xdk"
+      },
+      "websocket_template.xdke": {
+        "previousModTime": 1461403246000,
+        "modified": 1461403246000,
+        "seen": true,
+        "name": "websocket_template.xdke"
+      },
+      "websockets_client.png": {
+        "previousModTime": 1461403246000,
+        "modified": 1461403246000,
+        "seen": true,
+        "name": "websockets_client.png"
+      },
+      "client/index.css": {
+        "previousModTime": 1461403246000,
+        "modified": 1461403246000,
+        "seen": true,
+        "name": "client/index.css"
+      },
+      "client/index.html": {
+        "previousModTime": 1461403246000,
+        "modified": 1461403246000,
+        "seen": true,
+        "name": "client/index.html"
+      },
+      "client/index.js": {
+        "previousModTime": 1461403246000,
+        "modified": 1461403246000,
+        "seen": true,
+        "name": "client/index.js"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1461403246000,
+        "modified": 1461403246000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "LICENSE.md": {
+        "previousModTime": 1461413983761
+      },
+      "README.md": {
+        "previousModTime": 1461413983761
+      },
+      "icon.png": {
+        "previousModTime": 1461413983761
+      },
+      "main.js": {
+        "previousModTime": 1461413983761
+      },
+      "package.json": {
+        "previousModTime": 1461413983761
+      },
+      "websockets_client.png": {
+        "previousModTime": 1461413983761
+      },
+      "client/index.css": {
+        "previousModTime": 1461413983761
+      },
+      "client/index.html": {
+        "previousModTime": 1461413983761
+      },
+      "client/index.js": {
+        "previousModTime": 1461413983761
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1461413983761
+      }
+    }
   }
 }
