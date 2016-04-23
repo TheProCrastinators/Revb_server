@@ -24,6 +24,11 @@ Review README.md file for in-depth information about web sockets communication
 
 */
 
+//Bluemix credentials for Text to Speach
+var TtSurl =  "https://stream.watsonplatform.net/speech-to-text/api";
+var TtSpassword = "vNJfq3vTgI2K";
+var TtSusername = "8fb55af1-a8aa-4d50-8118-ab88248fcc0c";
+
 var mraa = require('mraa'); //require mraa
 console.log('MRAA Version: ' + mraa.getVersion()); //write the mraa version to the Intel XDK console
 //var myOnboardLed = new mraa.Gpio(3, false, true); //LED hooked up to digital pin (or built in pin on Galileo Gen1)
